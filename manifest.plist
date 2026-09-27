@@ -1,0 +1,25 @@
+items
+    
+        
+            assets
+            
+                
+                    kind
+                    software-package
+                    url
+                    
+                    https://github.com/warrenwoodhouse/app/releases/download/v1.0.0/app.ipa
+                
+            
+            metadata
+            
+                bundle-identifier
+                
+                com.warrenwoodhouse.app
+                bundle-version
+                1.0.0
+                kind
+                software
+                title
+                
+                Warren Woodhouse
